@@ -12,7 +12,7 @@ Credit Score Engine in Spring Boot App
 The application should be run at http://localhost:8081/
 ###### This service returns the credit score based on SSN
 
-##### Get Score
+##### Get ScoreK
 `GET http://localhost:8081/api/v1/credit/score/549214994`
 
 ###### Response
